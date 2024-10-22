@@ -1,3 +1,4 @@
+# EUREKA CONFIGURATION
 eureka:
   instance:
     hostname: localhost
@@ -16,6 +17,7 @@ management:
       exposure:
         include:
         - '*'
+# LOGGING CONFIGURATION        
 logging:
   file:
     name: /Users/TEMP/Desktop/SPRING_BOOT_PROJECT/EUREKA_GATEWAY_CONFIG_ZIPKIN_SLEUTH_ELK/centralized_logs/microservices.log        
