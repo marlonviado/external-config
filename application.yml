@@ -20,4 +20,4 @@ management:
 # LOGGING CONFIGURATION        
 logging:
   file:
-    name: /Users/TEMP/Desktop/SPRING_BOOT_PROJECT/EUREKA_GATEWAY_CONFIG_ZIPKIN_SLEUTH_ELK/centralized_logs/microservices.log        
+    name: /Users/PC/Documents/workspace-spring-tools-for-eclipse-4.31.0.RELEASE/ECOMMERCE/centralized_logs/microservices.log
